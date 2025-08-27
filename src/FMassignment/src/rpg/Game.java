@@ -1,7 +1,9 @@
 package rpg;
 
 public class Game {
-    public enum MapType { CITY, WILDERNESS }
+    public enum MapType {
+        CITY, WILDERNESS
+    }
 
     // factory method in Game for Map objects
     public static Map createMap(MapType type, int w, int h) {

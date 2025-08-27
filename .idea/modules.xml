@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FMassignment/FMassignment.iml" filepath="$PROJECT_DIR$/FMassignment/FMassignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/src/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Composite/Composite.iml" filepath="$PROJECT_DIR$/src/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FMassignment/FMassignment.iml" filepath="$PROJECT_DIR$/src/FMassignment/FMassignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Suunnittelumallit-java.iml" filepath="$PROJECT_DIR$/Suunnittelumallit-java.iml" />
     </modules>
   </component>

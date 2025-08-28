@@ -1,4 +1,7 @@
+
+package Composite.src;
 // Leaf class – represents a single employee
+
 class Employee extends OrganizationComponent {
     private double salary;
 

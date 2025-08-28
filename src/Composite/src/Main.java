@@ -1,3 +1,5 @@
+package Composite.src;
+
 // Demonstrates the Organization Structure using the Composite pattern
 public class Main {
     public static void main(String[] args) {

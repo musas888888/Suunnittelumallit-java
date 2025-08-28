@@ -1,3 +1,5 @@
+package Composite.src;
+
 // Base abstract class for both Department (composite) and Employee (leaf)
 // Defines the common interface so we can treat them uniformly.
 abstract class OrganizationComponent {

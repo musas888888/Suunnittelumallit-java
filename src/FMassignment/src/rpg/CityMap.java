@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 public class CityMap extends Map {
     public CityMap(int w, int h) { super(w, h); }

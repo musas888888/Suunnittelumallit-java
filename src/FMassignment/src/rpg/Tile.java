@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 public abstract class Tile {
     public abstract char getCharacter();     // 'S','W','R','F','B'

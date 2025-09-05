@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 public class RoadTile extends Tile {
     @Override

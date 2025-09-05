@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 public class SwampTile extends Tile {
     @Override public char getCharacter() { return 'S'; }

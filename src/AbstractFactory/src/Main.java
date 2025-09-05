@@ -1,3 +1,5 @@
+package AbstractFactory.src;
+
 public class Main {
     public static void main(String[] args) {
         // Choose style: default A, or pass B as arg

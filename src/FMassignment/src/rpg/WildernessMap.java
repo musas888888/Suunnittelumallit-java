@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 public class WildernessMap extends Map {
     public WildernessMap(int w, int h) { super(w, h); }

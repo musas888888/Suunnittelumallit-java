@@ -1,3 +1,5 @@
+package AbstractFactory.src;
+
 class ButtonB extends Button {
     public ButtonB(String text) {
         super(text);

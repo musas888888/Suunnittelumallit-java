@@ -1,3 +1,5 @@
+package AbstractFactory.src;
+
 class BFactory extends UIFactory {
     @Override
     public Button createButton(String text) {

@@ -1,4 +1,4 @@
-package rpg;
+package FMassignment.src.rpg;
 
 public class Game {
     public enum MapType {
